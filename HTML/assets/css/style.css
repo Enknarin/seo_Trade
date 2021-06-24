@@ -1510,6 +1510,8 @@ p#me_timer span {
 }
 .me-blog-title {
   margin: 6px 0px;
+  color: white;
+  font-weight: bold;
 }
 .me-blog-title a {
   color: #ffffff;
